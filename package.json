@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claire-max/Employee-Tracker.git"
+  },
+  "author": "Claire Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claire-max/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/claire-max/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.4",
+    "mysql": "^2.18.1"
+  }
+}
